@@ -16,14 +16,14 @@ And it's not just for those with shared tabs! This project is highly customisabl
 
 ## Table of Contents
 
-* [📋 Requirements](#requirements)
-* [⚙️ How It Works](#how-it-works)
-* [🛠️ Setup Instructions](#setup-instructions)
+* [📋 Requirements](#-requirements)
+* [🔧 How It Works](#-how-it-works)
+* [🚀 Setup Instructions](#-setup-instructions)
     * [Authentication Script Setup](#authentication-script-setup)
     * [IFTTT Setup](#ifttt-setup)
     * [iOS Shortcuts Setup](#ios-shortcuts-setup)
     * [Email Configuration](#email-configuration)
-* [🙏 Credits](#credits)
+* [🙏 Credits](#-credits)
 
 ## 📋 Requirements
 
@@ -34,7 +34,7 @@ And it's not just for those with shared tabs! This project is highly customisabl
 * Monzo developer account (for API keys)
 * Raspberry Pi (or an equivalent scheduled computing environment) for the daily token refresh
 
-## ⚙️ How It Works
+## 🔧 How It Works
 
 The system operates by having IFTTT send an email to a dedicated address every time you spend with Monzo. An iOS automation then captures this email, extracts transaction details, and creates a reminder on your iPhone. When you tap this reminder, another iOS automation prompts you to classify the expense (e.g., whether it is a shared expense) and then uses the Monzo API to add a corresponding note to the transaction. A Python script on a Raspberry Pi ensures your Monzo API tokens stay refreshed and accessible.
 
@@ -64,7 +64,7 @@ graph TD
 ```
 </div>
 
-## 🛠️ Setup Instructions
+## 🚀 Setup Instructions
 
 ### Authentication Script Setup
 1.  **Monzo Developer Account:** [Register for a Monzo developer account](https://developers.monzo.com/). Once registered, navigate to the **Clients** section and select **New OAuth Client** to obtain your `CLIENT_ID` and `CLIENT_SECRET`.
