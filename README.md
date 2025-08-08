@@ -10,7 +10,6 @@
  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
  <img alt="Raspberrypi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=flat-square" />
  <img alt="Shortcut" src="https://img.shields.io/badge/-Shortcuts-86868b?logo=apple&logoColor=white&style=flat-square" />
-
 </p>
 <!--- End of badges -->
 
