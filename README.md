@@ -19,7 +19,7 @@ Automate your Monzo spending! This project uses IFTTT and iOS Shortcuts to immed
 
 <!--- Start of Thumbnail-->
 <!--- <div style="text-align:center;">
-    <img src="Images/thumbnail.jpg" alt="Project" style="max-height: 150px;">
+    <img src="Images/thumbnail.png" alt="Project" style="max-height: 150px;">
 </div> -->
 <!--- End of Thumbnail-->
 
