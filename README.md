@@ -13,6 +13,16 @@
 </p>
 <!--- End of badges -->
 
+<!--- Blurb
+Automate your Monzo spending! This project uses IFTTT and iOS Shortcuts to immediately prompt you to categorise transactions via an easy interface, adding smart, searchable tags for effortless shared expense tracking and personal categorisation.
+-->
+
+<!--- Start of Thumbnail-->
+<!--- <div style="text-align:center;">
+    <img src="Images/thumbnail.jpg" alt="Project" style="max-height: 150px;">
+</div> -->
+<!--- End of Thumbnail-->
+
 <p align="center" width="50%">
     <img src="Images/shortcut_animation.gif" alt="Automation Trigger Setup" style="width: 30%; max-width: 300px; height: auto; border-radius: 8px;">
 </p>
