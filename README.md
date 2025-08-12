@@ -14,7 +14,7 @@
 <!--- End of badges -->
 
 <!--- Blurb
-Automate your Monzo spending! This project uses IFTTT and iOS Shortcuts to immediately prompt you to categorise transactions via an easy interface, adding smart, searchable tags for effortless shared expense tracking and personal categorisation.
+Automate your Monzo spending! This project uses IFTTT and iOS Shortcuts to prompt you to categorise transactions the moment you make them via an easy interface, adding smart, searchable tags for effortless shared expense tracking and personal categorisation.
 -->
 
 <!--- Start of Thumbnail-->
